@@ -1,69 +1,21 @@
-aiohttp @ file:///D:/bld/aiohttp_1623682503714/work
-anyio @ file:///D:/bld/anyio_1626999619874/work/dist
 async-timeout==3.0.1
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
-base58 @ file:///home/conda/feedstock_root/build_artifacts/base58_1610222858736/work
-bitarray @ file:///D:/bld/bitarray_1605223135544/work
 brotlipy==0.7.0
 certifi==2021.5.30
-cffi @ file:///D:/bld/cffi_1625835497933/work
-chardet @ file:///D:/bld/chardet_1610093646853/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1626371162869/work
 click==8.0.1
 colorama==0.4.4
-cryptography @ file:///D:/bld/cryptography_1616851649655/work
 cytoolz==0.11.0
-eth-abi @ file:///home/conda/feedstock_root/build_artifacts/eth-abi_1603547879440/work
-eth-account @ file:///home/conda/feedstock_root/build_artifacts/eth-account_1626960463670/work
-eth-hash @ file:///home/conda/feedstock_root/build_artifacts/eth-hash_1612342451754/work
-eth-keyfile @ file:///home/conda/feedstock_root/build_artifacts/eth-keyfile_1598795122692/work
-eth-keys @ file:///home/conda/feedstock_root/build_artifacts/eth-keys_1598719634616/work
-eth-rlp @ file:///home/conda/feedstock_root/build_artifacts/eth-rlp_1602701686634/work
-eth-typing @ file:///home/conda/feedstock_root/build_artifacts/eth-typing_1599130010743/work
-eth-utils @ file:///D:/bld/eth-utils_1612358556608/work
 Flask==2.0.1
 Flask-SQLAlchemy==2.5.1
 greenlet==1.1.0
-h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1609518832927/work
-h2 @ file:///D:/bld/h2_1610644001948/work
-hexbytes @ file:///home/conda/feedstock_root/build_artifacts/hexbytes_1598376847189/work
 hpack==4.0.0
-httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1623773057987/work
-httpx @ file:///D:/bld/httpx_1626708489498/work
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
-importlib-metadata @ file:///D:/bld/importlib-metadata_1627749085909/work
-ipfshttpclient @ file:///home/conda/feedstock_root/build_artifacts/ipfshttpclient_1615811636893/work
 itsdangerous==2.0.1
 Jinja2==3.0.1
-jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1614815863336/work
-lru-dict @ file:///D:/bld/lru-dict_1625138210706/work
 MarkupSafe==2.0.1
-multiaddr @ file:///home/conda/feedstock_root/build_artifacts/multiaddr_1598720134323/work
-multidict @ file:///D:/bld/multidict_1610319170773/work
 netaddr==0.7.19
 parsimonious==0.8.1
 protobuf==3.17.2
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
-pycryptodome @ file:///D:/bld/pycryptodome_1612879949399/work
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
-pyrsistent @ file:///D:/bld/pyrsistent_1610147004705/work
-PySocks @ file:///D:/bld/pysocks_1610291742246/work
 pywin32==301
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
-rfc3986 @ file:///home/conda/feedstock_root/build_artifacts/rfc3986_1620442452971/work
-rlp @ file:///home/conda/feedstock_root/build_artifacts/rlp_1598494850535/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-sniffio @ file:///D:/bld/sniffio_1610318539925/work
 SQLAlchemy==1.4.22
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1600973991856/work
-typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1624634538755/work
-varint @ file:///home/conda/feedstock_root/build_artifacts/varint_1591731592842/work
-web3 @ file:///D:/bld/web3_1627986689760/work
-websockets @ file:///D:/bld/websockets_1622491540888/work
 Werkzeug==2.0.1
-win-inet-pton @ file:///D:/bld/win_inet_pton_1610147566231/work
 wincertstore==0.2
-yarl @ file:///D:/bld/yarl_1625233156428/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1625284368454/work
+
