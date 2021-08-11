@@ -13,4 +13,4 @@ def getquery():
     return render_template("index.html", Address= wallet_address, Dividends= "10000 BNB", Unlock_time="13:10 UTC")
 
 if __name__ == "__main__":
-    app.run(port="8000", debug=True)
+    app.run(debug=True)
