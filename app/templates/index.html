@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+    <div id="input-pane" class="box">
+        <h1 id="heading">Wallet Information</h1>
+        <form id="address_form" name="address_result" action="query" method="POST">
+            <input type="text" name="address" placeholder="Enter your address">
+            <input onclick="" type="submit" name="submit" value="Check">
+        </form>
+
+        <div id="result_table">
+            <table class="table table-bordered table-striped table-dark">
+                <thead >
+                <tr>
+                    <th class="d-none d-sm-block" scope="col">Wallet Address</th>
+                    <th scope="col">Dividends</th>
+                    <th scope="col">Unlock Time</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td class="d-none d-sm-block">{{Address}}</td>
+                    <td>{{Dividends}}</td>
+                    <td>{{Unlock_time}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+<div class="footer">
+    <p>Made with ❤️.</p>
+</div>
+
+{% endblock %}
